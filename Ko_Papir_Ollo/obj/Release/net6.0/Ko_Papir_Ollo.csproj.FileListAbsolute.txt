@@ -1,0 +1,15 @@
+C:\C#\Ko_Papir_Ollo\Ko_Papir_Ollo\bin\Release\net6.0\Ko_Papir_Ollo.exe
+C:\C#\Ko_Papir_Ollo\Ko_Papir_Ollo\bin\Release\net6.0\Ko_Papir_Ollo.deps.json
+C:\C#\Ko_Papir_Ollo\Ko_Papir_Ollo\bin\Release\net6.0\Ko_Papir_Ollo.runtimeconfig.json
+C:\C#\Ko_Papir_Ollo\Ko_Papir_Ollo\bin\Release\net6.0\Ko_Papir_Ollo.dll
+C:\C#\Ko_Papir_Ollo\Ko_Papir_Ollo\bin\Release\net6.0\Ko_Papir_Ollo.pdb
+C:\C#\Ko_Papir_Ollo\Ko_Papir_Ollo\obj\Release\net6.0\Ko_Papir_Ollo.csproj.AssemblyReference.cache
+C:\C#\Ko_Papir_Ollo\Ko_Papir_Ollo\obj\Release\net6.0\Ko_Papir_Ollo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Ko_Papir_Ollo\Ko_Papir_Ollo\obj\Release\net6.0\Ko_Papir_Ollo.AssemblyInfoInputs.cache
+C:\C#\Ko_Papir_Ollo\Ko_Papir_Ollo\obj\Release\net6.0\Ko_Papir_Ollo.AssemblyInfo.cs
+C:\C#\Ko_Papir_Ollo\Ko_Papir_Ollo\obj\Release\net6.0\Ko_Papir_Ollo.csproj.CoreCompileInputs.cache
+C:\C#\Ko_Papir_Ollo\Ko_Papir_Ollo\obj\Release\net6.0\Ko_Papir_Ollo.dll
+C:\C#\Ko_Papir_Ollo\Ko_Papir_Ollo\obj\Release\net6.0\refint\Ko_Papir_Ollo.dll
+C:\C#\Ko_Papir_Ollo\Ko_Papir_Ollo\obj\Release\net6.0\Ko_Papir_Ollo.pdb
+C:\C#\Ko_Papir_Ollo\Ko_Papir_Ollo\obj\Release\net6.0\Ko_Papir_Ollo.genruntimeconfig.cache
+C:\C#\Ko_Papir_Ollo\Ko_Papir_Ollo\obj\Release\net6.0\ref\Ko_Papir_Ollo.dll
