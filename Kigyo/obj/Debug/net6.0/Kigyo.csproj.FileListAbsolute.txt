@@ -1,0 +1,15 @@
+C:\C#\Kigyo\Kigyo\bin\Debug\net6.0\Kigyo.exe
+C:\C#\Kigyo\Kigyo\bin\Debug\net6.0\Kigyo.deps.json
+C:\C#\Kigyo\Kigyo\bin\Debug\net6.0\Kigyo.runtimeconfig.json
+C:\C#\Kigyo\Kigyo\bin\Debug\net6.0\Kigyo.dll
+C:\C#\Kigyo\Kigyo\bin\Debug\net6.0\Kigyo.pdb
+C:\C#\Kigyo\Kigyo\obj\Debug\net6.0\Kigyo.csproj.AssemblyReference.cache
+C:\C#\Kigyo\Kigyo\obj\Debug\net6.0\Kigyo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Kigyo\Kigyo\obj\Debug\net6.0\Kigyo.AssemblyInfoInputs.cache
+C:\C#\Kigyo\Kigyo\obj\Debug\net6.0\Kigyo.AssemblyInfo.cs
+C:\C#\Kigyo\Kigyo\obj\Debug\net6.0\Kigyo.csproj.CoreCompileInputs.cache
+C:\C#\Kigyo\Kigyo\obj\Debug\net6.0\Kigyo.dll
+C:\C#\Kigyo\Kigyo\obj\Debug\net6.0\refint\Kigyo.dll
+C:\C#\Kigyo\Kigyo\obj\Debug\net6.0\Kigyo.pdb
+C:\C#\Kigyo\Kigyo\obj\Debug\net6.0\Kigyo.genruntimeconfig.cache
+C:\C#\Kigyo\Kigyo\obj\Debug\net6.0\ref\Kigyo.dll
